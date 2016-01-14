@@ -13,7 +13,7 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 
 [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
 Twitter:  https://twitter.com/OpenStack
-
+- “Aardvark” - Latest and greatest lab test.
 - **AAAA** - Test
 - **AARP** - American Association of Retired Person.
 - **Absolute Limit** [6] Ceiling (limits) for guest VMs. Controlled by defining total limits on RAM, number of vCPUs, and disk size.
